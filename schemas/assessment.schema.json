@@ -1,0 +1,48 @@
+{
+  "title": "ALTAF ARABIC Assessment Result",
+  "type": "object",
+  "required": [
+    "student_id",
+    "book_id",
+    "unit_id",
+    "activity_id",
+    "score",
+    "max_score",
+    "timestamp"
+  ],
+  "properties": {
+    "student_id": {
+      "type": "string"
+    },
+    "book_id": {
+      "type": "string"
+    },
+    "unit_id": {
+      "type": "string"
+    },
+    "activity_id": {
+      "type": "string"
+    },
+    "skill": {
+      "type": "string"
+    },
+    "score": {
+      "type": "number"
+    },
+    "max_score": {
+      "type": "number"
+    },
+    "attempt": {
+      "type": "integer"
+    },
+    "weak_items": {
+      "type": "array"
+    },
+    "timestamp": {
+      "type": "string"
+    },
+    "teacher": {
+      "type": "string"
+    }
+  }
+}

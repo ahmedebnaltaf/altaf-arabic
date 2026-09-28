@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ALTAF ARABIC Unit",
+  "type": "object",
+  "required": [
+    "book_id",
+    "unit_id",
+    "number",
+    "title_ar",
+    "title_en",
+    "content_status",
+    "objectives",
+    "dialogue",
+    "vocabulary",
+    "questions",
+    "sections"
+  ],
+  "properties": {
+    "book_id": {
+      "type": "string"
+    },
+    "unit_id": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "title_ar": {
+      "type": "string"
+    },
+    "title_en": {
+      "type": "string"
+    },
+    "content_status": {
+      "type": "string"
+    },
+    "objectives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "dialogue": {
+      "type": "array",
+      "items": {
+        "type": "array"
+      }
+    },
+    "vocabulary": {
+      "type": "array",
+      "items": {
+        "type": "array"
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "array"
+      }
+    },
+    "sections": {
+      "type": "object"
+    }
+  }
+}

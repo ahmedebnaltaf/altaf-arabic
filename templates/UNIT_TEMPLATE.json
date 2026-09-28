@@ -1,0 +1,27 @@
+{
+  "book_id": "book1",
+  "unit_id": "b1uNN",
+  "number": 0,
+  "title_ar": "",
+  "title_en": "",
+  "content_status": "source_available",
+  "objectives": [],
+  "dialogue": [],
+  "vocabulary": [],
+  "questions": [],
+  "sections": {
+    "overview": {},
+    "objectives": {},
+    "dialogue": {},
+    "vocabulary": {},
+    "listening": {},
+    "pronunciation": {},
+    "practice": {},
+    "reading": {},
+    "writing": {},
+    "assessment": {},
+    "cumulative_conversation": {},
+    "unit_completion": {}
+  },
+  "audio_pattern": "UN_D{dialogue}_S{sentence}.mp3"
+}

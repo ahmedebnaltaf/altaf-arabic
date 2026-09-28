@@ -1,0 +1,27 @@
+{
+  "title": "ALTAF ARABIC Conversation",
+  "type": "object",
+  "required": [
+    "conversation_id",
+    "number",
+    "title",
+    "lines"
+  ],
+  "properties": {
+    "conversation_id": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    },
+    "focus": {
+      "type": "string"
+    },
+    "lines": {
+      "type": "array"
+    }
+  }
+}

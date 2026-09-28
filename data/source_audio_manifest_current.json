@@ -1,0 +1,911 @@
+{
+  "course": "ALTAF ARABIC",
+  "audio_type": "human_mp3",
+  "fallback": "none_in_production",
+  "naming": "U{unit}_D{dialogue}_S{sentence}.mp3",
+  "units": [
+    {
+      "unit": 1,
+      "dialogue": 1,
+      "title_ar": "التحية والتعارف",
+      "source_ref": "turn20file2",
+      "sentences": [
+        {
+          "id": "U1-D1-S1",
+          "filename": "U1_D1_S1.mp3",
+          "speaker": "نور",
+          "arabic": "السَّلَامُ عَلَيْكُمْ.",
+          "english": "Peace be upon you.",
+          "status": "RECORDED",
+          "duration_seconds": 5.12
+        },
+        {
+          "id": "U1-D1-S2",
+          "filename": "U1_D1_S2.mp3",
+          "speaker": "سَلْمَى",
+          "arabic": "وَعَلَيْكُمُ السَّلَامُ.",
+          "english": "And upon you be peace.",
+          "status": "RECORDED",
+          "duration_seconds": 5.303
+        },
+        {
+          "id": "U1-D1-S3",
+          "filename": "U1_D1_S3.mp3",
+          "speaker": "نُور",
+          "arabic": "كَيْفَ حَالُكِ؟",
+          "english": "How are you?",
+          "status": "RECORDED",
+          "duration_seconds": 4.284
+        },
+        {
+          "id": "U1-D1-S4",
+          "filename": "U1_D1_S4.mp3",
+          "speaker": "سَلْمَى",
+          "arabic": "أَنَا بِخَيْرٍ، شُكْرًا.",
+          "english": "I am fine, thank you.",
+          "status": "RECORDED",
+          "duration_seconds": 5.878
+        },
+        {
+          "id": "U1-D1-S5",
+          "filename": "U1_D1_S5.mp3",
+          "speaker": "نُور",
+          "arabic": "أَهْلًا وَسَهْلًا.",
+          "english": "Welcome.",
+          "status": "RECORDED",
+          "duration_seconds": 4.075
+        },
+        {
+          "id": "U1-D1-S6",
+          "filename": "U1_D1_S6.mp3",
+          "speaker": "سَلْمَى",
+          "arabic": "أَهْلًا بِكِ.",
+          "english": "Welcome to you.",
+          "status": "RECORDED",
+          "duration_seconds": 4.258
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "dialogue": 0,
+      "title_ar": "الوحدة الثانية",
+      "source_ref": null,
+      "status": "SOURCE_FILE_NOT_RESOLVED",
+      "sentences": []
+    },
+    {
+      "unit": 3,
+      "dialogue": 1,
+      "title_ar": "السكن والبيت",
+      "source_ref": "turn16file1",
+      "sentences": [
+        {
+          "id": "U3-D1-S1",
+          "filename": "U3_D1_S1.mp3",
+          "speaker": "حَسَّان",
+          "arabic": "أَيْنَ تَسْكُنُ؟",
+          "english": "Where do you live?",
+          "status": "RECORDED",
+          "duration_seconds": 4.153
+        },
+        {
+          "id": "U3-D1-S2",
+          "filename": "U3_D1_S2.mp3",
+          "speaker": "أَحْمَد",
+          "arabic": "أَسْكُنُ فِي حَيِّ الْجَامِعَةِ.",
+          "english": "I live in the university neighborhood.",
+          "status": "RECORDED",
+          "duration_seconds": 6.609
+        },
+        {
+          "id": "U3-D1-S3",
+          "filename": "U3_D1_S3.mp3",
+          "speaker": "حَسَّان",
+          "arabic": "هَلْ تَسْكُنُ فِي بَيْتٍ؟",
+          "english": "Do you live in a house?",
+          "status": "RECORDED",
+          "duration_seconds": 5.277
+        },
+        {
+          "id": "U3-D1-S4",
+          "filename": "U3_D1_S4.mp3",
+          "speaker": "أَحْمَد",
+          "arabic": "نَعَمْ، أَسْكُنُ فِي بَيْتٍ.",
+          "english": "Yes, I live in a house.",
+          "status": "RECORDED",
+          "duration_seconds": 6.531
+        },
+        {
+          "id": "U3-D1-S5",
+          "filename": "U3_D1_S5.mp3",
+          "speaker": "أَحْمَد",
+          "arabic": "وَهَلْ تَسْكُنُ فِي بَيْتٍ؟",
+          "english": "And do you live in a house?",
+          "status": "RECORDED",
+          "duration_seconds": 5.564
+        },
+        {
+          "id": "U3-D1-S6",
+          "filename": "U3_D1_S6.mp3",
+          "speaker": "حَسَّان",
+          "arabic": "لَا، أَسْكُنُ فِي شَقَّةٍ.",
+          "english": "No, I live in an apartment.",
+          "status": "RECORDED",
+          "duration_seconds": 5.564
+        },
+        {
+          "id": "U3-D1-S7",
+          "filename": "U3_D1_S7.mp3",
+          "speaker": "أَحْمَد",
+          "arabic": "مَا رَقْمُ شَقَّتِكَ؟",
+          "english": "What is your apartment number?",
+          "status": "RECORDED",
+          "duration_seconds": 5.642
+        },
+        {
+          "id": "U3-D1-S8",
+          "filename": "U3_D1_S8.mp3",
+          "speaker": "حَسَّان",
+          "arabic": "خَمْسَةٌ.",
+          "english": "Five.",
+          "status": "RECORDED",
+          "duration_seconds": 3.631
+        },
+        {
+          "id": "U3-D1-S9",
+          "filename": "U3_D1_S9.mp3",
+          "speaker": "حَسَّان",
+          "arabic": "وَمَا رَقْمُ بَيْتِكَ؟",
+          "english": "And what is your house number?",
+          "status": "RECORDED",
+          "duration_seconds": 5.355
+        },
+        {
+          "id": "U3-D1-S10",
+          "filename": "U3_D1_S10.mp3",
+          "speaker": "أَحْمَد",
+          "arabic": "تِسْعَةٌ.",
+          "english": "Nine.",
+          "status": "RECORDED",
+          "duration_seconds": 3.579
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "dialogue": 1,
+      "title_ar": "الحياة اليومية",
+      "source_ref": "turn21file1",
+      "sentences": [
+        {
+          "id": "U4-D1-S1",
+          "filename": "U4_D1_S1.mp3",
+          "speaker": "طَارِق",
+          "arabic": "مَتَى تَسْتَيْقِظُ؟",
+          "english": "When do you wake up?",
+          "status": "RECORDED",
+          "duration_seconds": 4.545
+        },
+        {
+          "id": "U4-D1-S2",
+          "filename": "U4_D1_S2.mp3",
+          "speaker": "طَاهِر",
+          "arabic": "أَسْتَيْقِظُ عِنْدَ الْفَجْرِ.",
+          "english": "I wake up at dawn.",
+          "status": "RECORDED",
+          "duration_seconds": 5.355
+        },
+        {
+          "id": "U4-D1-S3",
+          "filename": "U4_D1_S3.mp3",
+          "speaker": "طَارِق",
+          "arabic": "أَيْنَ تُصَلِّي الْفَجْرَ؟",
+          "english": "Where do you pray Fajr?",
+          "status": "RECORDED",
+          "duration_seconds": 5.329
+        },
+        {
+          "id": "U4-D1-S4",
+          "filename": "U4_D1_S4.mp3",
+          "speaker": "طَاهِر",
+          "arabic": "أُصَلِّي الْفَجْرَ فِي الْمَسْجِدِ.",
+          "english": "I pray Fajr in the mosque.",
+          "status": "RECORDED",
+          "duration_seconds": 6.087
+        },
+        {
+          "id": "U4-D1-S5",
+          "filename": "U4_D1_S5.mp3",
+          "speaker": "طَارِق",
+          "arabic": "هَلْ تَنَامُ بَعْدَ الصَّلَاةِ؟",
+          "english": "Do you sleep after the prayer?",
+          "status": "RECORDED",
+          "duration_seconds": 5.956
+        },
+        {
+          "id": "U4-D1-S6",
+          "filename": "U4_D1_S6.mp3",
+          "speaker": "طَاهِر",
+          "arabic": "لَا، لَا أَنَامُ بَعْدَ الصَّلَاةِ.",
+          "english": "No, I do not sleep after the prayer.",
+          "status": "RECORDED",
+          "duration_seconds": 7.758
+        },
+        {
+          "id": "U4-D1-S7",
+          "filename": "U4_D1_S7.mp3",
+          "speaker": "طَارِق",
+          "arabic": "مَاذَا تَفْعَلُ بَعْدَ الصَّلَاةِ؟",
+          "english": "What do you do after the prayer?",
+          "status": "RECORDED",
+          "duration_seconds": 6.165
+        },
+        {
+          "id": "U4-D1-S8",
+          "filename": "U4_D1_S8.mp3",
+          "speaker": "طَاهِر",
+          "arabic": "أَقْرَأُ الْقُرْآنَ.",
+          "english": "I read the Quran.",
+          "status": "RECORDED",
+          "duration_seconds": 4.807
+        },
+        {
+          "id": "U4-D1-S9",
+          "filename": "U4_D1_S9.mp3",
+          "speaker": "طَارِق",
+          "arabic": "وَمَتَى تَذْهَبُ إِلَى الْمَدْرَسَةِ؟",
+          "english": "And when do you go to school?",
+          "status": "RECORDED",
+          "duration_seconds": 6.113
+        },
+        {
+          "id": "U4-D1-S10",
+          "filename": "U4_D1_S10.mp3",
+          "speaker": "طَاهِر",
+          "arabic": "أَذْهَبُ السَّاعَةَ السَّابِعَةَ.",
+          "english": "I go at seven o'clock.",
+          "status": "RECORDED",
+          "duration_seconds": 5.695
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "dialogue": 1,
+      "title_ar": "الطعام والمطعم",
+      "source_ref": "turn21file5",
+      "sentences": [
+        {
+          "id": "U5-D1-S1",
+          "filename": "U5_D1_S1.mp3",
+          "speaker": "قَاسِم",
+          "arabic": "أَيْنَ تَذْهَبُ يَا سَالِمُ؟",
+          "english": "Where are you going, Salim?",
+          "status": "RECORDED",
+          "duration_seconds": 5.93
+        },
+        {
+          "id": "U5-D1-S2",
+          "filename": "U5_D1_S2.mp3",
+          "speaker": "سَالِم",
+          "arabic": "إِلَى الْمَطْعَمِ.",
+          "english": "To the restaurant.",
+          "status": "RECORDED",
+          "duration_seconds": 4.31
+        },
+        {
+          "id": "U5-D1-S3",
+          "filename": "U5_D1_S3.mp3",
+          "speaker": "قَاسِم",
+          "arabic": "كَمْ وَجْبَةً تَأْكُلُ فِي الْيَوْمِ؟",
+          "english": "How many meals do you eat a day?",
+          "status": "RECORDED",
+          "duration_seconds": 6.478
+        },
+        {
+          "id": "U5-D1-S4",
+          "filename": "U5_D1_S4.mp3",
+          "speaker": "سَالِم",
+          "arabic": "آكُلُ ثَلَاثَ وَجَبَاتٍ: الْفُطُورَ وَالْغَدَاءَ وَالْعَشَاءَ.",
+          "english": "I eat three meals: breakfast, lunch, and dinner.",
+          "status": "RECORDED",
+          "duration_seconds": 11.259
+        },
+        {
+          "id": "U5-D1-S5",
+          "filename": "U5_D1_S5.mp3",
+          "speaker": "قَاسِم",
+          "arabic": "هَذَا كَثِيرٌ جِدًّا. أَنَا آكُلُ وَجْبَةً وَاحِدَةً.",
+          "english": "This is very much. I eat one meal.",
+          "status": "RECORDED",
+          "duration_seconds": 10.005
+        },
+        {
+          "id": "U5-D1-S6",
+          "filename": "U5_D1_S6.mp3",
+          "speaker": "سَالِم",
+          "arabic": "هَذَا قَلِيلٌ جِدًّا.",
+          "english": "This is very little.",
+          "status": "RECORDED",
+          "duration_seconds": 5.068
+        },
+        {
+          "id": "U5-D1-S7",
+          "filename": "U5_D1_S7.mp3",
+          "speaker": "قَاسِم",
+          "arabic": "مَاذَا تَأْكُلُ فِي الْغَدَاءِ؟",
+          "english": "What do you eat for lunch?",
+          "status": "RECORDED",
+          "duration_seconds": 5.538
+        },
+        {
+          "id": "U5-D1-S8",
+          "filename": "U5_D1_S8.mp3",
+          "speaker": "سَالِم",
+          "arabic": "آكُلُ الْأَرُزَّ وَالْخُبْزَ. وَمَاذَا تَأْكُلُ أَنْتَ؟",
+          "english": "I eat rice and bread. And what do you eat?",
+          "status": "RECORDED",
+          "duration_seconds": 8.908
+        },
+        {
+          "id": "U5-D1-S9",
+          "filename": "U5_D1_S9.mp3",
+          "speaker": "قَاسِم",
+          "arabic": "آكُلُ السَّمَكَ وَالسَّلَطَةَ وَالْفَاكِهَةَ.",
+          "english": "I eat fish, salad, and fruit.",
+          "status": "RECORDED",
+          "duration_seconds": 8.307
+        },
+        {
+          "id": "U5-D1-S10",
+          "filename": "U5_D1_S10.mp3",
+          "speaker": "سَالِم",
+          "arabic": "مَا وَزْنُكَ؟",
+          "english": "What is your weight?",
+          "status": "RECORDED",
+          "duration_seconds": 4.362
+        },
+        {
+          "id": "U5-D1-S11",
+          "filename": "U5_D1_S11.mp3",
+          "speaker": "قَاسِم",
+          "arabic": "سِتُّونَ كِيلًا. وَمَا وَزْنُكَ أَنْتَ؟",
+          "english": "60 kg. And what is your weight?",
+          "status": "RECORDED",
+          "duration_seconds": 8.699
+        },
+        {
+          "id": "U5-D1-S12",
+          "filename": "U5_D1_S12.mp3",
+          "speaker": "سَالِم",
+          "arabic": "مِائَةُ كِيلٍ.",
+          "english": "100 kg.",
+          "status": "RECORDED",
+          "duration_seconds": 4.963
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "dialogue": 2,
+      "title_ar": "طلب الطعام والشراب",
+      "source_ref": "turn21file2",
+      "sentences": [
+        {
+          "id": "U5-D2-S1",
+          "filename": "U5_D2_S1.mp3",
+          "speaker": "الْمُضِيفَة",
+          "arabic": "مَاذَا تَطْلُبِينَ مِنَ الطَّعَامِ؟",
+          "english": "What would you like to order for food?",
+          "status": "RECORDED",
+          "duration_seconds": 6.4
+        },
+        {
+          "id": "U5-D2-S2",
+          "filename": "U5_D2_S2.mp3",
+          "speaker": "الْمُسَافِرَة",
+          "arabic": "بَعْضَ السَّمَكِ وَالْأَرُزِّ، مِنْ فَضْلِكَ.",
+          "english": "Some fish and rice, please.",
+          "status": "RECORDED",
+          "duration_seconds": 7.419
+        },
+        {
+          "id": "U5-D2-S3",
+          "filename": "U5_D2_S3.mp3",
+          "speaker": "الْمُضِيفَة",
+          "arabic": "وَمَاذَا تَطْلُبِينَ مِنَ الشَّرَابِ؟",
+          "english": "And what would you like to order for a drink?",
+          "status": "RECORDED",
+          "duration_seconds": 6.635
+        },
+        {
+          "id": "U5-D2-S4",
+          "filename": "U5_D2_S4.mp3",
+          "speaker": "الْمُسَافِرَة",
+          "arabic": "مَاءً، مِنْ فَضْلِكَ.",
+          "english": "Water, please.",
+          "status": "RECORDED",
+          "duration_seconds": 5.146
+        },
+        {
+          "id": "U5-D2-S5",
+          "filename": "U5_D2_S5.mp3",
+          "speaker": "الْمُضِيفَة",
+          "arabic": "وَمَاذَا تُفَضِّلِينَ مِنَ الْفَاكِهَةِ؟",
+          "english": "And what do you prefer for fruit?",
+          "status": "RECORDED",
+          "duration_seconds": 6.687
+        },
+        {
+          "id": "U5-D2-S6",
+          "filename": "U5_D2_S6.mp3",
+          "speaker": "الْمُسَافِرَة",
+          "arabic": "التَّمْرَ أَوِ الْعِنَبَ.",
+          "english": "Dates or grapes.",
+          "status": "RECORDED",
+          "duration_seconds": 5.042
+        },
+        {
+          "id": "U5-D2-S7",
+          "filename": "U5_D2_S7.mp3",
+          "speaker": "الْمُضِيفَة",
+          "arabic": "هَلْ تَشْرَبِينَ الشَّايَ؟",
+          "english": "Do you drink tea?",
+          "status": "RECORDED",
+          "duration_seconds": 4.807
+        },
+        {
+          "id": "U5-D2-S8",
+          "filename": "U5_D2_S8.mp3",
+          "speaker": "الْمُسَافِرَة",
+          "arabic": "لَا، أُفَضِّلُ الْقَهْوَةَ.",
+          "english": "No, I prefer coffee.",
+          "status": "RECORDED",
+          "duration_seconds": 6.243
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "dialogue": 1,
+      "title_ar": "الصلوات الخمس",
+      "source_ref": "turn21file0",
+      "sentences": [
+        {
+          "id": "U6-D1-S1",
+          "filename": "U6_D1_S1.mp3",
+          "speaker": "مُصْطَفَى",
+          "arabic": "أَيْنَ تُصَلِّي الصَّلَوَاتِ الْخَمْسَ؟",
+          "english": "Where do you pray the five prayers?",
+          "status": "RECORDED",
+          "duration_seconds": 6.478
+        },
+        {
+          "id": "U6-D1-S2",
+          "filename": "U6_D1_S2.mp3",
+          "speaker": "قُصَيّ",
+          "arabic": "أُصَلِّي الظُّهْرَ وَالْعَصْرَ وَالْمَغْرِبَ وَالْعِشَاءَ فِي مَسْجِدِ بِلَالٍ.",
+          "english": "I pray Dhuhr, Asr, Maghrib, and Isha in Bilal Mosque.",
+          "status": "RECORDED",
+          "duration_seconds": 12.539
+        },
+        {
+          "id": "U6-D1-S3",
+          "filename": "U6_D1_S3.mp3",
+          "speaker": "مُصْطَفَى",
+          "arabic": "وَأَيْنَ تُصَلِّي الْفَجْرَ؟",
+          "english": "And where do you pray Fajr?",
+          "status": "RECORDED",
+          "duration_seconds": 5.59
+        },
+        {
+          "id": "U6-D1-S4",
+          "filename": "U6_D1_S4.mp3",
+          "speaker": "قُصَيّ",
+          "arabic": "أُصَلِّي الْفَجْرَ فِي الْبَيْتِ.",
+          "english": "I pray Fajr at home.",
+          "status": "RECORDED",
+          "duration_seconds": 5.878
+        },
+        {
+          "id": "U6-D1-S5",
+          "filename": "U6_D1_S5.mp3",
+          "speaker": "مُصْطَفَى",
+          "arabic": "لِمَاذَا تُصَلِّي الْفَجْرَ فِي الْبَيْتِ؟",
+          "english": "Why do you pray Fajr at home?",
+          "status": "RECORDED",
+          "duration_seconds": 6.975
+        },
+        {
+          "id": "U6-D1-S6",
+          "filename": "U6_D1_S6.mp3",
+          "speaker": "قُصَيّ",
+          "arabic": "لَا أَسْمَعُ الْأَذَانَ.",
+          "english": "I don't hear the Adhan.",
+          "status": "RECORDED",
+          "duration_seconds": 5.224
+        },
+        {
+          "id": "U6-D1-S7",
+          "filename": "U6_D1_S7.mp3",
+          "speaker": "مُصْطَفَى",
+          "arabic": "هَلْ تَسْتَيْقِظُ مُتَأَخِّرًا؟",
+          "english": "Do you wake up late?",
+          "status": "RECORDED",
+          "duration_seconds": 5.538
+        },
+        {
+          "id": "U6-D1-S8",
+          "filename": "U6_D1_S8.mp3",
+          "speaker": "قُصَيّ",
+          "arabic": "نَعَمْ، بَعْدَ صَلَاةِ الْفَجْرِ.",
+          "english": "Yes, after the Fajr prayer.",
+          "status": "RECORDED",
+          "duration_seconds": 7.236
+        },
+        {
+          "id": "U6-D1-S9",
+          "filename": "U6_D1_S9.mp3",
+          "speaker": "مُصْطَفَى",
+          "arabic": "اِسْتَيْقِظْ مُبَكِّرًا.",
+          "english": "Wake up early.",
+          "status": "RECORDED",
+          "duration_seconds": 4.911
+        },
+        {
+          "id": "U6-D1-S10",
+          "filename": "U6_D1_S10.mp3",
+          "speaker": "قُصَيّ",
+          "arabic": "لَا أَسْتَطِيعُ؛ أَعْمَلُ فِي اللَّيْلِ.",
+          "english": "I can't; I work at night.",
+          "status": "RECORDED",
+          "duration_seconds": 6.949
+        },
+        {
+          "id": "U6-D1-S11",
+          "filename": "U6_D1_S11.mp3",
+          "speaker": "مُصْطَفَى",
+          "arabic": "ضَعِ الْمُنَبِّهَ بِجَانِبِكَ.",
+          "english": "Put the alarm clock beside you.",
+          "status": "RECORDED",
+          "duration_seconds": 6.243
+        },
+        {
+          "id": "U6-D1-S12",
+          "filename": "U6_D1_S12.mp3",
+          "speaker": "قُصَيّ",
+          "arabic": "هَذِهِ فِكْرَةٌ طَيِّبَةٌ. جَزَاكَ اللَّهُ خَيْرًا.",
+          "english": "This is a good idea. May Allah reward you with goodness.",
+          "status": "RECORDED",
+          "duration_seconds": 10.789
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "dialogue": 2,
+      "title_ar": "السفر إلى مكة والمدينة",
+      "source_ref": "turn21file4",
+      "sentences": [
+        {
+          "id": "U6-D2-S1",
+          "filename": "U6_D2_S1.mp3",
+          "speaker": "صَالِح",
+          "arabic": "السَّلَامُ عَلَيْكُمْ.",
+          "english": "Peace be upon you.",
+          "status": "RECORDED",
+          "duration_seconds": 5.068
+        },
+        {
+          "id": "U6-D2-S2",
+          "filename": "U6_D2_S2.mp3",
+          "speaker": "عِصَام",
+          "arabic": "وَعَلَيْكُمُ السَّلَامُ.",
+          "english": "And upon you be peace.",
+          "status": "RECORDED",
+          "duration_seconds": 5.198
+        },
+        {
+          "id": "U6-D2-S3",
+          "filename": "U6_D2_S3.mp3",
+          "speaker": "صَالِح",
+          "arabic": "أَنَا مُسَافِرٌ إِلَى مَكَّةَ.",
+          "english": "I am traveling to Makkah.",
+          "status": "RECORDED",
+          "duration_seconds": 5.904
+        },
+        {
+          "id": "U6-D2-S4",
+          "filename": "U6_D2_S4.mp3",
+          "speaker": "عِصَام",
+          "arabic": "وَأَنَا مُسَافِرٌ إِلَى الْمَدِينَةِ.",
+          "english": "And I am traveling to Madinah.",
+          "status": "RECORDED",
+          "duration_seconds": 6.713
+        },
+        {
+          "id": "U6-D2-S5",
+          "filename": "U6_D2_S5.mp3",
+          "speaker": "عِصَام",
+          "arabic": "لِمَاذَا أَنْتَ مُسَافِرٌ إِلَى مَكَّةَ؟",
+          "english": "Why are you traveling to Makkah?",
+          "status": "RECORDED",
+          "duration_seconds": 7.027
+        },
+        {
+          "id": "U6-D2-S6",
+          "filename": "U6_D2_S6.mp3",
+          "speaker": "صَالِح",
+          "arabic": "لِلصَّلَاةِ فِي الْمَسْجِدِ الْحَرَامِ.",
+          "english": "To pray in the Holy Mosque.",
+          "status": "RECORDED",
+          "duration_seconds": 6.348
+        },
+        {
+          "id": "U6-D2-S7",
+          "filename": "U6_D2_S7.mp3",
+          "speaker": "صَالِح",
+          "arabic": "وَلِمَاذَا أَنْتَ مُسَافِرٌ إِلَى الْمَدِينَةِ؟",
+          "english": "And why are you traveling to Madinah?",
+          "status": "RECORDED",
+          "duration_seconds": 7.497
+        },
+        {
+          "id": "U6-D2-S8",
+          "filename": "U6_D2_S8.mp3",
+          "speaker": "عِصَام",
+          "arabic": "لِلصَّلَاةِ فِي الْمَسْجِدِ النَّبَوِيِّ.",
+          "english": "To pray in the Prophet's Mosque.",
+          "status": "RECORDED",
+          "duration_seconds": 6.583
+        },
+        {
+          "id": "U6-D2-S9",
+          "filename": "U6_D2_S9.mp3",
+          "speaker": "عِصَام",
+          "arabic": "أَيْنَ تُصَلِّي الْجُمُعَةَ؟",
+          "english": "Where will you pray Friday prayer?",
+          "status": "RECORDED",
+          "duration_seconds": 5.956
+        },
+        {
+          "id": "U6-D2-S10",
+          "filename": "U6_D2_S10.mp3",
+          "speaker": "صَالِح",
+          "arabic": "فِي الْمَسْجِدِ الْحَرَامِ، إِنْ شَاءَ اللَّهُ.",
+          "english": "In the Holy Mosque, if Allah wills.",
+          "status": "RECORDED",
+          "duration_seconds": 8.02
+        },
+        {
+          "id": "U6-D2-S11",
+          "filename": "U6_D2_S11.mp3",
+          "speaker": "صَالِح",
+          "arabic": "وَأَيْنَ تُصَلِّي الْجُمُعَةَ؟",
+          "english": "And where will you pray Friday prayer?",
+          "status": "RECORDED",
+          "duration_seconds": 6.269
+        },
+        {
+          "id": "U6-D2-S12",
+          "filename": "U6_D2_S12.mp3",
+          "speaker": "عِصَام",
+          "arabic": "فِي الْمَسْجِدِ النَّبَوِيِّ، إِنْ شَاءَ اللَّهُ.",
+          "english": "In the Prophet's Mosque, if Allah wills.",
+          "status": "RECORDED",
+          "duration_seconds": 8.333
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "dialogue": 1,
+      "title_ar": "الجدول الدراسي",
+      "source_ref": "turn17file0",
+      "sentences": [
+        {
+          "id": "U7-D1-S1",
+          "filename": "U7_D1_S1.mp3",
+          "speaker": "غَانِم",
+          "arabic": "اُنْظُرْ إِلَى اللَّوْحَةِ، اِقْرَأِ الْجَدْوَلَ الدِّرَاسِيَّ.",
+          "english": "Look at the board; read the school schedule.",
+          "status": "RECORDED",
+          "duration_seconds": 8.986
+        },
+        {
+          "id": "U7-D1-S2",
+          "filename": "U7_D1_S2.mp3",
+          "speaker": "غَالِب",
+          "arabic": "الدِّرَاسَةُ خَمْسَةُ أَيَّامٍ فِي الْأُسْبُوعِ.",
+          "english": "Study is five days a week.",
+          "status": "RECORDED",
+          "duration_seconds": 7.419
+        },
+        {
+          "id": "U7-D1-S3",
+          "filename": "U7_D1_S3.mp3",
+          "speaker": "غَانِم",
+          "arabic": "نَعَمْ، يَوْمُ السَّبْتِ، وَيَوْمُ الْأَحَدِ، وَيَوْمُ الْإِثْنَيْنِ، وَيَوْمُ الثُّلَاثَاءِ، وَيَوْمُ الْأَرْبِعَاءِ.",
+          "english": "Yes: Saturday, Sunday, Monday, Tuesday, and Wednesday.",
+          "status": "RECORDED",
+          "duration_seconds": 17.293
+        },
+        {
+          "id": "U7-D1-S4",
+          "filename": "U7_D1_S4.mp3",
+          "speaker": "غَالِب",
+          "arabic": "الْعُطْلَةُ يَوْمَ الْخَمِيسِ، وَيَوْمَ الْجُمُعَةِ.",
+          "english": "The holiday is Thursday and Friday.",
+          "status": "RECORDED",
+          "duration_seconds": 8.908
+        },
+        {
+          "id": "U7-D1-S5",
+          "filename": "U7_D1_S5.mp3",
+          "speaker": "غَانِم",
+          "arabic": "اُكْتُبِ الْمَوَادَّ الدِّرَاسِيَّةَ.",
+          "english": "Write the school subjects.",
+          "status": "RECORDED",
+          "duration_seconds": 5.956
+        },
+        {
+          "id": "U7-D1-S6",
+          "filename": "U7_D1_S6.mp3",
+          "speaker": "غَالِب",
+          "arabic": "الثَّقَافَةُ الْإِسْلَامِيَّةُ، وَاللُّغَةُ الْعَرَبِيَّةُ، وَالرِّيَاضِيَّاتُ، وَالْعُلُومُ، وَالْحَاسُوبُ.",
+          "english": "Islamic Culture, Arabic, Mathematics, Science, and Computer Studies.",
+          "status": "RECORDED",
+          "duration_seconds": 16.509
+        },
+        {
+          "id": "U7-D1-S7",
+          "filename": "U7_D1_S7.mp3",
+          "speaker": "غَالِب",
+          "arabic": "مَتَى تَبْدَأُ الِاخْتِبَارَاتُ؟",
+          "english": "When do the exams start?",
+          "status": "RECORDED",
+          "duration_seconds": 5.878
+        },
+        {
+          "id": "U7-D1-S8",
+          "filename": "U7_D1_S8.mp3",
+          "speaker": "غَانِم",
+          "arabic": "فِي شَهْرِ شَعْبَانَ.",
+          "english": "In the month of Shaban.",
+          "status": "RECORDED",
+          "duration_seconds": 5.068
+        },
+        {
+          "id": "U7-D1-S9",
+          "filename": "U7_D1_S9.mp3",
+          "speaker": "غَالِب",
+          "arabic": "وَمَتَى يَنْتَهِي الْعَامُ الدِّرَاسِيُّ؟",
+          "english": "And when does the school year end?",
+          "status": "RECORDED",
+          "duration_seconds": 6.531
+        },
+        {
+          "id": "U7-D1-S10",
+          "filename": "U7_D1_S10.mp3",
+          "speaker": "غَانِم",
+          "arabic": "فِي شَهْرِ رَمَضَانَ.",
+          "english": "In the month of Ramadan.",
+          "status": "RECORDED",
+          "duration_seconds": 5.198
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "dialogue": 1,
+      "title_ar": "المهن والعمل",
+      "source_ref": "turn17file2",
+      "sentences": [
+        {
+          "id": "U8-D1-S1",
+          "filename": "U8_D1_S1.mp3",
+          "speaker": "عُثْمَان",
+          "arabic": "أَعْمَلُ طَبِيبًا، مَاذَا تَعْمَلُ أَنْتَ؟",
+          "english": "I work as a doctor. What do you do?",
+          "status": "RECORDED",
+          "duration_seconds": 8.307
+        },
+        {
+          "id": "U8-D1-S2",
+          "filename": "U8_D1_S2.mp3",
+          "speaker": "عَلِيّ",
+          "arabic": "أَعْمَلُ مُهَنْدِسًا.",
+          "english": "I work as an engineer.",
+          "status": "RECORDED",
+          "duration_seconds": 5.407
+        },
+        {
+          "id": "U8-D1-S3",
+          "filename": "U8_D1_S3.mp3",
+          "speaker": "عُثْمَان",
+          "arabic": "أَيْنَ تَعْمَلُ؟",
+          "english": "Where do you work?",
+          "status": "RECORDED",
+          "duration_seconds": 4.258
+        },
+        {
+          "id": "U8-D1-S4",
+          "filename": "U8_D1_S4.mp3",
+          "speaker": "عَلِيّ",
+          "arabic": "أَعْمَلُ فِي شَرِكَةٍ، وَأَيْنَ تَعْمَلُ أَنْتَ؟",
+          "english": "I work in a company, and where do you work?",
+          "status": "RECORDED",
+          "duration_seconds": 8.777
+        },
+        {
+          "id": "U8-D1-S5",
+          "filename": "U8_D1_S5.mp3",
+          "speaker": "عُثْمَان",
+          "arabic": "أَعْمَلُ فِي الْمُسْتَشْفَى.",
+          "english": "I work in the hospital.",
+          "status": "RECORDED",
+          "duration_seconds": 5.277
+        },
+        {
+          "id": "U8-D1-S6",
+          "filename": "U8_D1_S6.mp3",
+          "speaker": "عَلِيّ",
+          "arabic": "كَمْ سَاعَةً تَعْمَلُ فِي الْيَوْمِ؟",
+          "english": "How many hours do you work in a day?",
+          "status": "RECORDED",
+          "duration_seconds": 6.844
+        },
+        {
+          "id": "U8-D1-S7",
+          "filename": "U8_D1_S7.mp3",
+          "speaker": "عُثْمَان",
+          "arabic": "أَعْمَلُ ثَمَانِيَ سَاعَاتٍ فِي الْيَوْمِ. وَكَمْ سَاعَةً تَعْمَلُ أَنْتَ؟",
+          "english": "I work eight hours in a day. And how many hours do you work?",
+          "status": "RECORDED",
+          "duration_seconds": 12.095
+        },
+        {
+          "id": "U8-D1-S8",
+          "filename": "U8_D1_S8.mp3",
+          "speaker": "عَلِيّ",
+          "arabic": "أَعْمَلُ سَبْعَ سَاعَاتٍ.",
+          "english": "I work seven hours.",
+          "status": "RECORDED",
+          "duration_seconds": 5.721
+        },
+        {
+          "id": "U8-D1-S9",
+          "filename": "U8_D1_S9.mp3",
+          "speaker": "عُثْمَان",
+          "arabic": "هَلْ تُحِبُّ عَمَلَكَ؟",
+          "english": "Do you like your work?",
+          "status": "RECORDED",
+          "duration_seconds": 4.963
+        },
+        {
+          "id": "U8-D1-S10",
+          "filename": "U8_D1_S10.mp3",
+          "speaker": "عَلِيّ",
+          "arabic": "نَعَمْ، أُحِبُّ عَمَلِي.",
+          "english": "Yes, I like my work.",
+          "status": "RECORDED",
+          "duration_seconds": 6.06
+        },
+        {
+          "id": "U8-D1-S11",
+          "filename": "U8_D1_S11.mp3",
+          "speaker": "عُثْمَان",
+          "arabic": "وَأَنَا أُحِبُّ عَمَلِي أَيْضًا.",
+          "english": "And I love my work also.",
+          "status": "RECORDED",
+          "duration_seconds": 6.531
+        }
+      ]
+    }
+  ],
+  "audio_count_actual": 91,
+  "audio_count_matched": 91,
+  "verified_valid_mp3": 91,
+  "audio_case_sensitive_names": true
+}
